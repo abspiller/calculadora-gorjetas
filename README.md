@@ -36,7 +36,7 @@ Apresento o projeto de uma calculadora de gorjetas, desenvolvida com HTML, CSS e
 
 ## 🎨 Layout
 
-![Captura de Tela (24)](https://github.com/abspiller/calculadora-gorjetas/assets/157075633/8531ae61-2671-4189-b6b6-cc21ecc42d40)
+![Captura de Tela (25)](https://github.com/abspiller/calculadora-gorjetas/assets/157075633/4f9f6e10-bb76-4171-8106-d7eb0a89eef7)
 
 
 ## 🛠️ Tecnologias
