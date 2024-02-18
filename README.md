@@ -33,3 +33,14 @@ Apresento o projeto de uma calculadora de gorjetas, desenvolvida com HTML, CSS e
 * **Responsividade:** Garantimos que a calculadora seja acessível em dispositivos móveis, tablets e desktops, proporcionando uma experiência consistente em diferentes telas.
 
 * **Código Limpo e Estruturado:** Seguimos as melhores práticas de codificação, tornando o código fácil de entender, manter e escalar.
+
+## 🎨 Layout
+
+![Captura de Tela (24)](https://github.com/abspiller/calculadora-gorjetas/assets/157075633/8531ae61-2671-4189-b6b6-cc21ecc42d40)
+
+
+## 🛠️ Tecnologias
+
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+
